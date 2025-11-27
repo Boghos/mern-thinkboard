@@ -1,4 +1,4 @@
-import Navbar from "../components/NavBar";
+import Navbar from "../components/Navbar";
 import NoteCard from "../components/NoteCard";
 import { useEffect, useState } from "react";
 import RateLimitedUI from "../components/RateLimitedUI";
